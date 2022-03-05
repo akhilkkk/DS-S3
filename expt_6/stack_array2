@@ -87,3 +87,24 @@ int main()
     while(choice!=4);
     return 0;
 }
+
+//output
+output
+stack operations:
+1push
+2pop
+3 display
+4 exit
+enter your choice 1
+enter value 3
+value pushed
+enter your choice 1
+enter value 4
+value pushed 
+enter your choice 2
+enter value 4
+value poped
+enter your choice:3
+3
+enter your choice 4
+exit point
