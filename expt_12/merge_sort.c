@@ -53,3 +53,12 @@ void printarr() {
     for(int j =0; j<size; j++)
         printf("%d ",arr[j]);
 }
+
+//output
+Enter the Size of the Array : 5 
+Enter the Elements of the Array : 90
+30
+50
+20
+60
+The Sorted Array is : 20 30 50 60 90
