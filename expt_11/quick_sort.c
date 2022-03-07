@@ -53,3 +53,12 @@ void print(int a[], int n) {
 		printf("%d ",a[i]);
 	printf("\n");
 }
+
+//output
+Enter the number of elements in the array : 5
+Enter the array elements : 30
+96
+50
+15
+65
+The Sorted Array is 15 30 50 65 96 
