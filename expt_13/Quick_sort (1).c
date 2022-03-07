@@ -70,3 +70,11 @@ int main() {
 	printArr(arr, n);
 	return 0;
 }
+
+//output
+Enter the Size of the Array : 4
+Enter the Elements of the Array : 30
+90
+60
+10
+10 30 60 90
