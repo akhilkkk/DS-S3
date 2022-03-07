@@ -82,3 +82,27 @@ int main() {
 	} while(1);
 	return 0;
 }
+
+//output
+Queue
+1. Insert 2. Delete 3.Display 4.Exit 
+1
+Item to be entered : 34
+
+1. Insert 2. Delete 3.Display 4.Exit 
+1
+Item to be entered : 46
+
+1. Insert 2. Delete 3.Display 4.Exit 
+2
+The deleted item is 34
+1. Insert 2. Delete 3.Display 4.Exit 
+1
+Item to be entered : 78
+
+1. Insert 2. Delete 3.Display 4.Exit 
+3
+
+ Queue :46 78 
+1. Insert 2. Delete 3.Display 4.Exit 
+4
