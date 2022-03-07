@@ -57,3 +57,13 @@ int main() {
 	
 	return 0;
 }
+
+//output
+Enter the number of elements : 5
+Enter element 1 : 90
+Enter element 2 : 30
+Enter element 3 : 50
+Enter element 4 : 10
+Enter element 5 : 60
+Sorted list is :
+10 30 50 60 90 
