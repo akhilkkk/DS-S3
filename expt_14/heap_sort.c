@@ -52,3 +52,12 @@ void RestoreHeapDown(int *Heap,int index,int n) {
 	}
 	Heap[j/2]=val;
 }
+
+//output
+Enter the number of elements : 5
+Enter the elements : 30
+60
+10
+40
+20
+The sorted elements are:   10  20  30  40  60
