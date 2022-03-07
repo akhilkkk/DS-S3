@@ -77,3 +77,59 @@ void main() {
 	}while(ch!=4);
 	
 }
+
+//output
+
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 1
+
+value to be inserted:23
+
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 1
+
+value to be inserted:34
+
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 3
+23 --> 34
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 2
+
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 3
+34
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 1
+
+value to be inserted:67
+
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 3
+34 --> 67
+1. Insert 
+2. Delete
+3. Display
+4. Quit
+Enter your Choice : 4
